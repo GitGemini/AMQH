@@ -1,0 +1,103 @@
+﻿@model AMQH.Models.BookModel.User
+
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal" style="margin-top:30px;">
+        @Html.ValidationSummary(true, "", new { @style = "color:red" })
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @style = "color:red" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Nickname, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Nickname, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Nickname, "", new { @style = "color:red" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Gender, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <label class="radio-inline">@Html.RadioButtonFor(model => model.Gender, "男")男</label>
+                <label class="radio-inline">@Html.RadioButtonFor(model => model.Gender, "女")女</label>
+                @Html.ValidationMessageFor(model => model.Gender, "", new { @style = "color:red" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Phone, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Phone, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Phone, "", new { @style = "color:red" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @style = "color:red" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @style = "color:red" })
+            </div>
+        </div>
+
+        @*<div class="form-group">
+            <label class="control-label col-sm-2" style="margin-top:40px;">头像：</label>
+            <div class="col-md-2" style="margin-top:40px;">
+                <input type="file" name="UserIcon" id="UserIcon" />
+            </div>
+            <div class="col-md-8">
+                <img src="/common/img/tou2.png" class="img-thumbnail" width="120" height="120" id="showImg" />
+            </div>
+        </div>*@
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="注册" class="btn btn-info" style="margin-right:10px;" />
+                <input type="reset" value="重置" class="btn btn-info" id="resetBtn" />
+            </div>
+        </div>
+
+    </div>
+    <script type="text/javascript">
+        $(function () {
+            $("#UserIcon").on("change", function () {
+                var file = this.files[0];
+                if(this.files && file)
+                {
+                    var reader = new FileReader();
+                    reader.onload = function (e) {
+                        $("#showImg").attr("src", e.target.result);
+                    }
+                    reader.readAsDataURL(file);
+                }
+            });
+            $("#resetBtn").on("click", function () {
+                $("#showImg").attr("src", "/common/img/tou2.png");
+            });
+
+        });
+    </script>
+}
+
+
+

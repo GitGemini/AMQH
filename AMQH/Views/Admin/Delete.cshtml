@@ -1,0 +1,69 @@
+﻿@model AMQH.Models.BookModel.Book
+@{
+    ViewBag.Title = "删除商品";
+}
+
+<h3>删除商品</h3>
+
+<h3>确认要删除商品“@Model.Name”吗？</h3>
+<fieldset>
+    <legend>商品“@Model.Name”信息</legend>
+    @Html.HiddenFor(model => model.Id)
+    @Html.HiddenFor(model => model.BCategoryId)
+    @Html.HiddenFor(model => model.Count)
+    @Html.HiddenFor(model => model.SoldCount)
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Author)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Author)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Price)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Price)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Description)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Description)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.PublishTime)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PublishTime)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Publisher)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Publisher)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.BookIcon)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.BookIcon)
+    </div>
+</fieldset>
+@using (Html.BeginForm())
+{
+    <p>
+        <input type="submit" value="删除" /> |
+        @Html.ActionLink("返回", "Index")
+    </p>
+}
+

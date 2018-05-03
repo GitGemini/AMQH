@@ -1,0 +1,170 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>淘书屋</title>
+    <script src="~/Scripts/echarts.common.min.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="~/Content/themes/base/all.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    @Styles.Render("~/Content/themes/base/jqueryui")
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/jquery-unobtrusive-ajax")
+    @Scripts.Render("~/bundles/bootstrap")
+    
+    <style>
+        body{
+          font-size:18px;
+          background-color:whitesmoke;
+        }
+        #henu_img {
+            height: 40px;
+            float: left;
+            margin: 4px 10px;
+        }
+
+        .text_pre {
+            white-space: pre;
+        }
+
+        .span_text {
+            color: #9d9d9d;
+            font-size: 20px;
+            line-height: 48px;
+            margin-right: 20px;
+            
+        }
+
+        .error_div {
+            color: red;
+            text-align: left;
+            padding-left: 100px;
+            padding-bottom: 20px;
+        }
+    </style>
+
+</head>
+@{
+    var ajaxOptions = (AjaxOptions)TempData["AjaxOptions"];
+}
+<body>
+    <div class="container">
+        <nav class="navbar  navbar-fixed-top" role="navigation" 
+             style="background-color:darkturquoise;font-size:18px;color:white;">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <img id="henu_img" src="~/common/img/default.png"
+                         class="img-circle " />
+                     <a class="navbar-brand" style="font-size:22px;">图书商城</a>
+                </div>
+                <div>
+                    <ul class="nav navbar-nav">
+                        <li class="active">
+                            @Html.ActionLink("商城首页", "Index", "Home")
+                        </li>
+                   
+                        <li><a href="#">商城帮助</a></li>
+                        <li><a href="#">社区</a></li>
+                        <li>@Html.ActionLink("个人主页", "ShowInfo", "User")</li>
+                       @{
+
+                           if (Session["userPhone"] != null && Session["userPhone"].Equals("18738998058"))
+                           {
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle"
+                                   data-toggle="dropdown">
+                                    管理版块<b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>@Html.ActionLink("管理图书", "Index", "Admin")</li>
+                                    <li>@Html.ActionLink("图表信息", "ShowChart", "Home")</li>
+
+                                </ul>
+                            </li>
+                           }
+                    }
+                    </ul>
+                </div>
+                @{
+
+                    if (Session["userPhone"] == null)
+                    {
+                    
+                    <div style="padding-right: 30px; text-align:center;">
+                        <ul class="nav navbar-nav navbar-right" style="padding-top:10px;">
+                            <li>
+                                <span class="glyphicon glyphicon-user text-center">
+                                    @Html.ActionLink("注册", "Register", "User")
+                                </span>
+
+                            </li>
+                            <li style="margin-left:15px;">
+                                <span class="glyphicon glyphicon-log-in text-center">
+                                    @Html.ActionLink("登陆", "Login", "User")
+                                </span>
+                            </li>
+
+                        </ul>
+                    </div>
+                    }
+                    else
+                    {   
+                        <div class="dropdown navbar-right" style="padding-top:0px;">
+                            <a class="dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown">
+                                <img src= "common/img/default.png" class="img-circle" style="width:50px;height:50px;"/>
+                                <span style="font-size: 21px; line-height: 44px; margin-right:20px;">
+                                @Session["userName"]</span>           
+                            </a>
+                            <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                <li role="presentation" class="dropdown-header ">
+                                <span style="font-size: 20px; line-height: 35px;">管理信息</span></li>
+                                <li role="presentation">
+                                    <a role="menuitem" href="~/Views/Account/Register.cshtml">
+                                        <span  style="line-height: 35px;">
+                                            @Ajax.ActionLink("编辑信息", "Edit", "User", new { id = Session["userId"] }, new AjaxOptions { UpdateTargetId = "body_div"})
+                                        </span> 
+                                    </a>
+                                </li>
+                                <li role="presentation">
+                                    <a role="menuitem" href="~/Views/Account/ResetPassword.cshtml">
+                                        <span style="font-size: 18px; line-height: 35px;">
+                                           @Html.ActionLink("查看购物车", "Index", "ShopCart")
+                                        </span> 
+                                    </a>
+                                </li>
+                                <li role="presentation">                
+                                    <span class="glyphicon glyphicon-log-out"  style="font-size: 18px; line-height: 35px;">
+                                        @Html.ActionLink("注销", "Logout", "User")
+                                    </span>                                  
+                                </li>
+                   
+                            </ul>
+                        </div>
+
+                        }
+                    }
+                <div class="navbar-right">
+                    <img style="height: 40px; float: left; margin: 4px 10px;"
+                         src="" />
+                    <a class="span_text" href=""></a>
+                </div>
+              
+            </div>
+        </nav>
+
+    </div>
+    <div id="body_div" class="container body-content" style="margin:auto;">
+        @RenderBody()
+    </div>
+    <script>
+    $("#left").accordion({ heightStyle: "content" });
+    </script>
+</body>
+</html>

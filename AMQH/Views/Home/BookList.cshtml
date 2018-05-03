@@ -1,0 +1,67 @@
+﻿@model IEnumerable<AMQH.Models.BookModel.Book>
+@{
+    ViewBag.Title = "BookList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{
+    var ajaxOption = new AjaxOptions()
+    {
+        OnSuccess = "AddToCartSuccess",
+        OnFailure = "AddToCartFailure",
+        HttpMethod = "Post"
+    };
+}
+
+<script>
+    function AddToCartSuccess() {
+        alert('加入购物车成功');
+    }
+    function AddToCartFailure(xhr) {
+        alert('加入购物车失败 (HTTP 状态码: ' + xhr.status + ')');
+    }
+</script>
+
+
+<div id="BookList" style="background-color:white;padding:10px 20px;">
+    @if (Session["userPhone"] != null)
+    {
+        <div class="row navbar-right">
+            <div class="right panel-heading">
+                <img src="~/common/img/cart-round.svg" />
+                @Html.ActionLink("查看购物车", "Index", "ShopCart")
+            </div>
+        </div>
+    }
+    <h3>@Html.DisplayNameFor(model => model.ToList()[0])</h3>
+    <h3>【@Model.First().BookCategory.Name】分类：</h3>
+    <table >
+        <tr>
+            <th style="padding:5px;">封面</th>
+            <th style="padding:5px;">@Html.DisplayNameFor(model => model.Name)</th>
+            <th style="padding:5px;">@Html.DisplayNameFor(model => model.Description)</th>
+            <th style="padding:5px;">@Html.DisplayNameFor(model => model.Price)</th>
+            @if (Session["userPhone"] != null)
+            {
+                <th>购买</th>
+            }
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td><img alt="" src="@item.BookIcon" style="height:100px;width:100px;" /></td>
+                <td>@Html.ActionLink(item.Name, "BookDetails", new { id = item.Id })</td>
+                <td class="col-md-6">@Html.DisplayFor(modelItem => item.Description)</td>
+                <td>@Html.DisplayFor(modelItem => item.Price)<span>元</span></td>
+                @if (Session["userPhone"]!=null)
+                {
+                    <td>
+                        <img src="~/common/img/cart.svg"/>
+                       @Ajax.ActionLink("添加", "AddToCart", "ShopCart", new { BookId = item.Id }, ajaxOption)
+                    </td>
+                }
+            </tr>
+        }
+    </table>
+
+</div>

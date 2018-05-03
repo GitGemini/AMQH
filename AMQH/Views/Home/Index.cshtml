@@ -1,0 +1,121 @@
+﻿@model List<AMQH.Models.BookModel.BookCategory>
+@{
+    var ajaxOptions = (AjaxOptions)TempData["AjaxOptions"];
+}
+<style>
+    #myCarousel img{
+  margin: 0 auto;
+  width:100%;
+  height:170px;
+ 
+}
+    #right ul li {
+        width: 180px;
+        height: 200px;
+        margin: 10px 10px;
+        float: left;
+    }
+ 
+</style>
+<div class="container">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel"
+         data-interval="3000">
+        <!-- 轮播（Carousel）指标 -->
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ol>
+        <!-- 轮播（Carousel）项目 -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <img src="~/common/img/img1.png">
+            </div>
+            <div class="item">
+                <img src="~/common/img/img4.jpg">
+            </div>
+            <div class="item">
+                <img src="~/common/img/img3.png">
+            </div>
+        </div>
+    </div>
+    <!--图片轮播区结束 -->
+    <div class="row" style="margin-top:10px;">
+        <div id="left" class="panel-success col-md-3">           
+            <h3 class="bg-success">图书类别</h3>
+            <div>
+                @{
+                    foreach (var item in Model)
+                    {
+                        <div class="list-group-item">
+                            @Html.ActionLink(item.Name, "BookList", new
+                                            {
+                                                id = item.Id
+                                            })
+                          </div>
+                    }
+                }
+            </div>           
+        </div>
+        <div id="right" class="col-md-9" style="background-color:white;">
+            <div>
+                <h3>热门商品</h3>
+                <ul>
+                    <li>
+                        <a href="/Home/BookDetails/16">
+                            <img alt="新东方六级词汇" src="~/common/bookImg/6.jpg" style="width:180px;height:180px;" />
+                            <p>新东方六级词汇</p>
+                        </a>
+                     </li>
+                    <li>
+                        <a href="/Home/BookDetails/34">
+                            <img alt="解忧杂货店" src="~/common/bookImg/15.jpg" style="width:180px;height:180px;" />
+                            <p>解忧杂货店</p>
+                        </a>
+                    </li>  
+                    <li>
+                        <a href="/Home/BookDetails/41">
+                            <img alt="从零开始学陶艺" src="~/common/bookImg/19.jpg" style="width:180px;height:180px;" />
+                            <p>从零开始学陶艺</p>
+                        </a>
+                    </li>   
+                    <li>
+                        <a href="/Home/BookDetails/32">
+                            <img alt="自在独行" src="~/common/bookImg/13.jpg" style="width:180px;height:180px;" />
+                            <p>自在独行</p>
+                        </a>
+                    </li>  
+                    <li>
+                        <a href="/Home/BookDetails/54">
+                            <img alt="樱花巷的秘密" src="~/common/bookImg/1.jpg" style="width:180px;height:180px;" />
+                            <p>笑猫日记</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Home/BookDetails/32">
+                            <img alt="Linux就该这么学" src="~/common/bookImg/32.jpg" style="width:180px;height:180px;" />
+                            <p>Linux就该这么学</p>
+                        </a>
+                    </li>  
+                    <li>
+                        <a href="/Home/BookDetails/71">
+                            <img alt="猫咪家庭医学大百科" src="~/common/bookImg/38.jpg" style="width:180px;height:180px;" />
+                            <p>猫咪家庭医学大百科</p>
+                        </a>
+                    </li> 
+                    <li>
+                        <a href="/Home/BookDetails/12">
+                            <img alt="安徒生童话" src="~/common/bookImg/5.jpg" style="width:180px;height:180px;" />
+                            <p>安徒生童话</p>
+                        </a>
+                    </li>  
+                </ul>
+
+            </div>
+        </div>
+    </div>
+ </div>
+<script>
+    $("#left").accordion({ heightStyle: "content" });
+</script>
+

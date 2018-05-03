@@ -1,0 +1,75 @@
+﻿@model AMQH.Models.BookModel.Book
+
+@*@{
+    ViewBag.Title = "BookDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}*@
+
+@{
+    var ajaxOption = new AjaxOptions()
+    {
+        OnSuccess = "AddToCartSuccess",
+        OnFailure = "AddToCartFailure",
+        HttpMethod = "Post"
+    };
+}
+
+
+<script>
+    function AddToCartSuccess() {
+        alert('添加购物车成功！');
+    }
+    function AddToCartFailure(xhr) {
+        alert('添加购物车失败(HTTP状态码：' +
+            xhr.status + ')');
+    }
+</script>
+
+<div id="bookdetail" style="background-color:white;padding:10px 20px;">
+    @if (Session["userPhone"] != null)
+    {
+        <p class="navbar-right" style="margin:10px;">
+            <img src="~/common/img/cart.svg" />
+            @Ajax.ActionLink("添加", "AddToCart", "ShopCart", new { BookId = Model.Id }, ajaxOption)
+        </p>
+    }
+    <h3 style="color:cornflowerblue">@Model.Name</h3>
+
+    <fieldset style="margin-top:10px">
+        <legend>@Html.DisplayNameFor(m => m)</legend>
+        <img alt="" src="@Model.BookIcon" style="float:left;width:180px;height:180px;" />
+        <div style="float:left;margin:30px">
+            <div class="display-label">
+                @Html.DisplayNameFor(model => model.Author)
+            </div>
+            <div class="display-field">
+                @Html.DisplayFor(model => model.Author)
+            </div>
+            <div class="display-label">
+                @Html.DisplayNameFor(model => model.Description)
+            </div>
+            <div class="display-field">
+                @Html.DisplayFor(model => model.Description)
+            </div>
+            <div class="display-label">
+                @Html.DisplayNameFor(model => model.Price)
+            </div>
+            <div class="display-field">
+                @Html.DisplayFor(model => model.Price)
+            </div>
+            <div class="display-label">
+                @Html.DisplayNameFor(model => model.PublishTime)
+            </div>
+            <div class="display-field">
+                @Html.DisplayFor(model => model.PublishTime)
+            </div>
+            <div class="display-label">
+                @Html.DisplayNameFor(model => model.Publisher)
+            </div>
+            <div class="display-field">
+                @Html.DisplayFor(model => model.Publisher)
+            </div>
+        </div>
+    </fieldset>
+</div>
+

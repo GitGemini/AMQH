@@ -1,0 +1,96 @@
+﻿@model AMQH.Models.BookModel.User
+@{
+    ViewBag.Title = "个人主页";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    body {
+        background: #EFF4FB;
+    }
+
+    .container {
+        width: 1000px;
+        margin: 0 auto;
+    }
+
+    .div-content {
+        border: 1px solid #A9CBEE;
+    }
+
+    .div-left {
+        background: #fff;
+        border-right: 1px solid #A9CBEE;
+    }
+
+    .div-right {
+        background: #fff;
+    }
+</style>
+@{
+    AjaxOptions ajaxOptions = new AjaxOptions
+    {
+        UpdateTargetId = "myOrders",
+        OnFailure = "OnFaiure",
+    };
+}
+
+<div class="container" style="padding: 10px; margin-top:10px;">
+    <div class="div-content row">
+        <div class="col-md-3 pannel pannel-default div-left">
+            <div>
+                <img style="display: block; height: 100px; margin: 20px auto; background: #EFF4FB;"
+                     src="~/common/img/default.png" />
+
+            </div>
+            <div class="userInfo" style="margin: 0 auto;">
+                <ul class="list-group">
+                    <li class="list-group-item">@Html.DisplayNameFor(model => model.Name)</li>
+                    <li class="list-group-item">@Html.DisplayFor(model => model.Name)</li>
+                    <li class="list-group-item">@Html.DisplayNameFor(model => model.Nickname)</li>
+                    <li class="list-group-item">@Html.DisplayFor(model => model.Nickname)</li>
+                    <li class="list-group-item">@Html.DisplayNameFor(model => model.Gender)</li>
+                    <li class="list-group-item">@Html.DisplayFor(model => model.Gender)</li>
+                    <li class="list-group-item">@Html.DisplayNameFor(model => model.Phone)</li>
+                    <li class="list-group-item">@Html.DisplayFor(model => model.Phone)</li>
+                    <li class="list-group-item">@Html.DisplayNameFor(model => model.Email)</li>
+                    <li class="list-group-item">@Html.DisplayFor(model => model.Email)</li>
+
+                </ul>
+
+            </div>
+        </div>
+        <div class="col-md-9 div-right" style="min-height:650px;">
+            <ul class="nav nav-tabs" id="myTab">
+                <li class="active">
+                    @Ajax.ActionLink("修改密码", "ChangePassword", "User", new AjaxOptions { UpdateTargetId = "show_div" })
+                </li>
+                <li>
+                    @Ajax.ActionLink("历史订单", "GetOrders", "Order", 
+             
+               new AjaxOptions { UpdateTargetId="show_div"}
+                 )
+                </li>
+            </ul>
+            <div id="show_div" class="tab-content" style="padding: 10px;width:inherit;">
+               
+            </div>
+        </div>
+
+    </div>
+</div>
+<script>
+    function OnFailure(xhr) {
+        $("body").html(xhr.responseText);
+    }
+    $(document).ready(function () {
+        var show = $("#show_div");
+        var listInfo = $(".userInfo")
+        show.accordion({ collapsible: true });
+        $("#show_div").css({ minHeight: listInfo.height() });
+    });
+    var tabs = $("#myTab > li").click(function () {
+        $("#myTab > li").removeClass("active");
+        $(this).addClass("active");
+    });
+</script>
+

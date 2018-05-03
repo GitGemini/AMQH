@@ -1,0 +1,1237 @@
+D:\AMQH\AMQH\bin\ApplicationInsights.config
+D:\AMQH\AMQH\bin\AMQH.dll.config
+D:\AMQH\AMQH\bin\AMQH.dll
+D:\AMQH\AMQH\bin\AMQH.pdb
+D:\AMQH\AMQH\bin\Antlr3.Runtime.dll
+D:\AMQH\AMQH\bin\EntityFramework.dll
+D:\AMQH\AMQH\bin\EntityFramework.SqlServer.dll
+D:\AMQH\AMQH\bin\Microsoft.AI.Agent.Intercept.dll
+D:\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.dll
+D:\AMQH\AMQH\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\AMQH\AMQH\bin\Microsoft.AI.Web.dll
+D:\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.dll
+D:\AMQH\AMQH\bin\Microsoft.ApplicationInsights.dll
+D:\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.dll
+D:\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\AMQH\AMQH\bin\Microsoft.Owin.dll
+D:\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.dll
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.dll
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.dll
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.dll
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.dll
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.dll
+D:\AMQH\AMQH\bin\Microsoft.Web.Infrastructure.dll
+D:\AMQH\AMQH\bin\Newtonsoft.Json.dll
+D:\AMQH\AMQH\bin\Owin.dll
+D:\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.dll
+D:\AMQH\AMQH\bin\System.Net.Http.Formatting.dll
+D:\AMQH\AMQH\bin\System.Web.Helpers.dll
+D:\AMQH\AMQH\bin\System.Web.Http.dll
+D:\AMQH\AMQH\bin\System.Web.Http.WebHost.dll
+D:\AMQH\AMQH\bin\System.Web.Mvc.dll
+D:\AMQH\AMQH\bin\System.Web.Optimization.dll
+D:\AMQH\AMQH\bin\System.Web.Razor.dll
+D:\AMQH\AMQH\bin\System.Web.WebPages.Deployment.dll
+D:\AMQH\AMQH\bin\System.Web.WebPages.dll
+D:\AMQH\AMQH\bin\System.Web.WebPages.Razor.dll
+D:\AMQH\AMQH\bin\WebGrease.dll
+D:\AMQH\AMQH\bin\Antlr3.Runtime.pdb
+D:\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.xml
+D:\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\AMQH\AMQH\bin\Microsoft.AI.Web.xml
+D:\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.xml
+D:\AMQH\AMQH\bin\Microsoft.ApplicationInsights.xml
+D:\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\AMQH\AMQH\bin\Microsoft.Owin.xml
+D:\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.xml
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.xml
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.xml
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.xml
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.xml
+D:\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.xml
+D:\AMQH\AMQH\bin\Newtonsoft.Json.xml
+D:\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.xml
+D:\AMQH\AMQH\bin\System.Web.Helpers.xml
+D:\AMQH\AMQH\bin\System.Web.Mvc.xml
+D:\AMQH\AMQH\bin\System.Web.Optimization.xml
+D:\AMQH\AMQH\bin\System.Web.Razor.xml
+D:\AMQH\AMQH\bin\System.Web.WebPages.xml
+D:\AMQH\AMQH\bin\System.Web.WebPages.Deployment.xml
+D:\AMQH\AMQH\bin\System.Web.WebPages.Razor.xml
+D:\AMQH\AMQH\bin\System.Net.Http.Formatting.xml
+D:\AMQH\AMQH\bin\System.Web.Http.xml
+D:\AMQH\AMQH\bin\System.Web.Http.WebHost.xml
+D:\AMQH\AMQH\bin\EntityFramework.xml
+D:\AMQH\AMQH\bin\EntityFramework.SqlServer.xml
+D:\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.xml
+D:\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\System.Web.Http.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\EntityFramework.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\AMQH\AMQH\obj\Debug\AMQH.csprojResolveAssemblyReference.cache
+D:\AMQH\AMQH\obj\Debug\AMQH.dll
+D:\AMQH\AMQH\obj\Debug\AMQH.pdb
+E:\NET\1510121152\AMQH\AMQH\bin\ApplicationInsights.config
+E:\NET\1510121152\AMQH\AMQH\bin\AMQH.dll.config
+E:\NET\1510121152\AMQH\AMQH\bin\AMQH.dll
+E:\NET\1510121152\AMQH\AMQH\bin\AMQH.pdb
+E:\NET\1510121152\AMQH\AMQH\bin\Antlr3.Runtime.dll
+E:\NET\1510121152\AMQH\AMQH\bin\EntityFramework.dll
+E:\NET\1510121152\AMQH\AMQH\bin\EntityFramework.SqlServer.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.Agent.Intercept.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.Web.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.ApplicationInsights.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Web.Infrastructure.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Newtonsoft.Json.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Owin.dll
+E:\NET\1510121152\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.dll
+E:\NET\1510121152\AMQH\AMQH\bin\System.Net.Http.Formatting.dll
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.Helpers.dll
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.Http.dll
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.Http.WebHost.dll
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.Mvc.dll
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.Optimization.dll
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.Razor.dll
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.WebPages.Deployment.dll
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.WebPages.dll
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.WebPages.Razor.dll
+E:\NET\1510121152\AMQH\AMQH\bin\WebGrease.dll
+E:\NET\1510121152\AMQH\AMQH\bin\Antlr3.Runtime.pdb
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.Web.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.ApplicationInsights.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Newtonsoft.Json.xml
+E:\NET\1510121152\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.xml
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.Helpers.xml
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.Mvc.xml
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.Optimization.xml
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.Razor.xml
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.WebPages.xml
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.WebPages.Deployment.xml
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.WebPages.Razor.xml
+E:\NET\1510121152\AMQH\AMQH\bin\System.Net.Http.Formatting.xml
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.Http.xml
+E:\NET\1510121152\AMQH\AMQH\bin\System.Web.Http.WebHost.xml
+E:\NET\1510121152\AMQH\AMQH\bin\EntityFramework.xml
+E:\NET\1510121152\AMQH\AMQH\bin\EntityFramework.SqlServer.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Http.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\EntityFramework.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\NET\1510121152\AMQH\AMQH\obj\Debug\AMQH.dll
+E:\NET\1510121152\AMQH\AMQH\obj\Debug\AMQH.pdb
+I:\NET\1510121152\AMQH\AMQH\bin\ApplicationInsights.config
+I:\NET\1510121152\AMQH\AMQH\bin\AMQH.dll.config
+I:\NET\1510121152\AMQH\AMQH\bin\AMQH.dll
+I:\NET\1510121152\AMQH\AMQH\bin\AMQH.pdb
+I:\NET\1510121152\AMQH\AMQH\bin\Antlr3.Runtime.dll
+I:\NET\1510121152\AMQH\AMQH\bin\EntityFramework.dll
+I:\NET\1510121152\AMQH\AMQH\bin\EntityFramework.SqlServer.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.Agent.Intercept.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.Web.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.ApplicationInsights.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Web.Infrastructure.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Newtonsoft.Json.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Owin.dll
+I:\NET\1510121152\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.dll
+I:\NET\1510121152\AMQH\AMQH\bin\System.Net.Http.Formatting.dll
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.Helpers.dll
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.Http.dll
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.Http.WebHost.dll
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.Mvc.dll
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.Optimization.dll
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.Razor.dll
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.WebPages.Deployment.dll
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.WebPages.dll
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.WebPages.Razor.dll
+I:\NET\1510121152\AMQH\AMQH\bin\WebGrease.dll
+I:\NET\1510121152\AMQH\AMQH\bin\Antlr3.Runtime.pdb
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.Web.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.ApplicationInsights.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Newtonsoft.Json.xml
+I:\NET\1510121152\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.xml
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.Helpers.xml
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.Mvc.xml
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.Optimization.xml
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.Razor.xml
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.WebPages.xml
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.WebPages.Deployment.xml
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.WebPages.Razor.xml
+I:\NET\1510121152\AMQH\AMQH\bin\System.Net.Http.Formatting.xml
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.Http.xml
+I:\NET\1510121152\AMQH\AMQH\bin\System.Web.Http.WebHost.xml
+I:\NET\1510121152\AMQH\AMQH\bin\EntityFramework.xml
+I:\NET\1510121152\AMQH\AMQH\bin\EntityFramework.SqlServer.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\NET\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Helpers.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Mvc.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Optimization.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Razor.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Http.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\EntityFramework.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+I:\NET\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+I:\NET\1510121152\AMQH\AMQH\obj\Debug\AMQH.csprojResolveAssemblyReference.cache
+I:\NET\1510121152\AMQH\AMQH\obj\Debug\AMQH.dll
+I:\NET\1510121152\AMQH\AMQH\obj\Debug\AMQH.pdb
+E:\NET\1510121152\AMQH\AMQH\obj\Debug\AMQH.csprojResolveAssemblyReference.cache
+D:\C#Project\1510121152\AMQH\AMQH\obj\Debug\AMQH.dll
+D:\C#Project\1510121152\AMQH\AMQH\obj\Debug\AMQH.pdb
+D:\C#Project\1510121152\AMQH\AMQH\bin\ApplicationInsights.config
+D:\C#Project\1510121152\AMQH\AMQH\bin\AMQH.dll.config
+D:\C#Project\1510121152\AMQH\AMQH\bin\AMQH.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\AMQH.pdb
+D:\C#Project\1510121152\AMQH\AMQH\bin\Antlr3.Runtime.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\EntityFramework.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\EntityFramework.SqlServer.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AI.Web.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.ApplicationInsights.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Web.Infrastructure.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Newtonsoft.Json.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Owin.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Net.Http.Formatting.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.Helpers.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.Http.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.Http.WebHost.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.Mvc.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.Optimization.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.Razor.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.WebPages.Deployment.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.WebPages.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.WebPages.Razor.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\WebGrease.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\Antlr3.Runtime.pdb
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AI.Web.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.ApplicationInsights.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Newtonsoft.Json.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.Helpers.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.Mvc.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.Optimization.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.Razor.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.WebPages.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.WebPages.Deployment.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.WebPages.Razor.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Net.Http.Formatting.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.Http.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\System.Web.Http.WebHost.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\EntityFramework.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\EntityFramework.SqlServer.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Http.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\EntityFramework.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\C#Project\1510121152\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\eclipse\AMQH\AMQH\bin\common\bookImg\1.jpg
+E:\eclipse\AMQH\AMQH\bin\common\bookImg\10.jpg
+E:\eclipse\AMQH\AMQH\bin\common\img\henu.png
+E:\eclipse\AMQH\AMQH\bin\common\img\img2.png
+E:\eclipse\AMQH\AMQH\bin\ApplicationInsights.config
+E:\eclipse\AMQH\AMQH\bin\Antlr3.Runtime.dll
+E:\eclipse\AMQH\AMQH\bin\EntityFramework.dll
+E:\eclipse\AMQH\AMQH\bin\EntityFramework.SqlServer.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AI.Agent.Intercept.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AI.Web.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.ApplicationInsights.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.dll
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Web.Infrastructure.dll
+E:\eclipse\AMQH\AMQH\bin\Newtonsoft.Json.dll
+E:\eclipse\AMQH\AMQH\bin\Owin.dll
+E:\eclipse\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.dll
+E:\eclipse\AMQH\AMQH\bin\System.Net.Http.Formatting.dll
+E:\eclipse\AMQH\AMQH\bin\System.Web.Helpers.dll
+E:\eclipse\AMQH\AMQH\bin\System.Web.Http.dll
+E:\eclipse\AMQH\AMQH\bin\System.Web.Http.WebHost.dll
+E:\eclipse\AMQH\AMQH\bin\System.Web.Mvc.dll
+E:\eclipse\AMQH\AMQH\bin\System.Web.Optimization.dll
+E:\eclipse\AMQH\AMQH\bin\System.Web.Razor.dll
+E:\eclipse\AMQH\AMQH\bin\System.Web.WebPages.Deployment.dll
+E:\eclipse\AMQH\AMQH\bin\System.Web.WebPages.dll
+E:\eclipse\AMQH\AMQH\bin\System.Web.WebPages.Razor.dll
+E:\eclipse\AMQH\AMQH\bin\WebGrease.dll
+E:\eclipse\AMQH\AMQH\bin\Antlr3.Runtime.pdb
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AI.Web.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.ApplicationInsights.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.xml
+E:\eclipse\AMQH\AMQH\bin\Newtonsoft.Json.xml
+E:\eclipse\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.xml
+E:\eclipse\AMQH\AMQH\bin\System.Web.Helpers.xml
+E:\eclipse\AMQH\AMQH\bin\System.Web.Mvc.xml
+E:\eclipse\AMQH\AMQH\bin\System.Web.Optimization.xml
+E:\eclipse\AMQH\AMQH\bin\System.Web.Razor.xml
+E:\eclipse\AMQH\AMQH\bin\System.Web.WebPages.xml
+E:\eclipse\AMQH\AMQH\bin\System.Web.WebPages.Deployment.xml
+E:\eclipse\AMQH\AMQH\bin\System.Web.WebPages.Razor.xml
+E:\eclipse\AMQH\AMQH\bin\System.Net.Http.Formatting.xml
+E:\eclipse\AMQH\AMQH\bin\System.Web.Http.xml
+E:\eclipse\AMQH\AMQH\bin\System.Web.Http.WebHost.xml
+E:\eclipse\AMQH\AMQH\bin\EntityFramework.xml
+E:\eclipse\AMQH\AMQH\bin\EntityFramework.SqlServer.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\eclipse\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\System.Web.Http.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\EntityFramework.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\eclipse\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\eclipse\AMQH\AMQH\obj\Debug\AMQH.csprojResolveAssemblyReference.cache
+E:\eclipse\AMQH\AMQH\obj\Debug\AMQH.dll
+E:\eclipse\AMQH\AMQH\obj\Debug\AMQH.pdb
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\common\bookImg\1.jpg
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\common\bookImg\10.jpg
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\ApplicationInsights.config
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Antlr3.Runtime.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\EntityFramework.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\EntityFramework.SqlServer.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AI.Web.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.ApplicationInsights.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Web.Infrastructure.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Newtonsoft.Json.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Owin.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Net.Http.Formatting.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.Helpers.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.Http.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.Http.WebHost.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.Mvc.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.Optimization.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.Razor.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.WebPages.Deployment.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.WebPages.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.WebPages.Razor.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\WebGrease.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Antlr3.Runtime.pdb
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AI.Web.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.ApplicationInsights.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Newtonsoft.Json.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.Helpers.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.Mvc.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.Optimization.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.Razor.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.WebPages.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.WebPages.Deployment.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.WebPages.Razor.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Net.Http.Formatting.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.Http.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\System.Web.Http.WebHost.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\EntityFramework.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\EntityFramework.SqlServer.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\System.Web.Http.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\EntityFramework.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\obj\Debug\AMQH.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\obj\Debug\AMQH.pdb
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\AMQH.dll.config
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\AMQH.dll
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\bin\AMQH.pdb
+D:\C#Project\图书商城\AMQH(1221)\AMQH\AMQH\obj\Debug\AMQH.csprojResolveAssemblyReference.cache
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\common\bookImg\1.jpg
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\common\bookImg\10.jpg
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\ApplicationInsights.config
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\AMQH.dll.config
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\AMQH.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\AMQH.pdb
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Antlr3.Runtime.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\EntityFramework.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\EntityFramework.SqlServer.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AI.Web.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.ApplicationInsights.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Web.Infrastructure.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Newtonsoft.Json.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Owin.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Net.Http.Formatting.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.Helpers.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.Http.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.Http.WebHost.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.Mvc.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.Optimization.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.Razor.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.WebPages.Deployment.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.WebPages.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.WebPages.Razor.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\WebGrease.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Antlr3.Runtime.pdb
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AI.Web.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.ApplicationInsights.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Newtonsoft.Json.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.Helpers.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.Mvc.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.Optimization.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.Razor.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.WebPages.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.WebPages.Deployment.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.WebPages.Razor.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Net.Http.Formatting.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.Http.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\System.Web.Http.WebHost.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\EntityFramework.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\EntityFramework.SqlServer.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\System.Web.Http.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\EntityFramework.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\obj\Debug\AMQH.dll
+D:\C#Project\图书商城\AMQH(1223)\AMQH\AMQH\obj\Debug\AMQH.pdb
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\common\bookImg\1.jpg
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\common\bookImg\10.jpg
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\ApplicationInsights.config
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\AMQH.dll.config
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\AMQH.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\AMQH.pdb
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Antlr3.Runtime.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\EntityFramework.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\EntityFramework.SqlServer.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AI.Agent.Intercept.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AI.Web.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.ApplicationInsights.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Web.Infrastructure.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Newtonsoft.Json.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Owin.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Net.Http.Formatting.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.Helpers.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.Http.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.Http.WebHost.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.Mvc.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.Optimization.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.Razor.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.WebPages.Deployment.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.WebPages.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.WebPages.Razor.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\WebGrease.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Antlr3.Runtime.pdb
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AI.Web.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.ApplicationInsights.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Newtonsoft.Json.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.Helpers.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.Mvc.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.Optimization.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.Razor.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.WebPages.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.WebPages.Deployment.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.WebPages.Razor.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Net.Http.Formatting.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.Http.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\System.Web.Http.WebHost.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\EntityFramework.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\EntityFramework.SqlServer.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\System.Web.Helpers.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\System.Web.Mvc.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\System.Web.Http.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\EntityFramework.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\obj\Debug\AMQH.csproj.CoreCompileInputs.cache
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\obj\Debug\AMQH.dll
+F:\codes\My Projects\AMQH(1226)\AMQH\AMQH\obj\Debug\AMQH.pdb
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\common\bookImg\1.jpg
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\common\bookImg\10.jpg
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\ApplicationInsights.config
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\AMQH.dll.config
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\AMQH.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\AMQH.pdb
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Antlr3.Runtime.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\EntityFramework.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\EntityFramework.SqlServer.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.Web.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.ApplicationInsights.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Web.Infrastructure.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Newtonsoft.Json.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Owin.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Net.Http.Formatting.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.Helpers.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.Http.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.Http.WebHost.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.Mvc.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.Optimization.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.Razor.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.Deployment.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.Razor.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\WebGrease.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Antlr3.Runtime.pdb
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.Web.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.ApplicationInsights.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Newtonsoft.Json.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.Helpers.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.Mvc.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.Optimization.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.Razor.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.Deployment.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.Razor.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Net.Http.Formatting.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.Http.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\System.Web.Http.WebHost.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\EntityFramework.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\EntityFramework.SqlServer.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Http.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\EntityFramework.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\obj\Debug\AMQH.dll
+D:\C#Project\图书商城\AMQH1226\AMQH\AMQH\obj\Debug\AMQH.pdb
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\obj\Debug\AMQH.csprojResolveAssemblyReference.cache
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\obj\Debug\AMQH.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\obj\Debug\AMQH.pdb
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\common\bookImg\1.jpg
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\common\bookImg\10.jpg
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\ApplicationInsights.config
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\AMQH.dll.config
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\AMQH.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\AMQH.pdb
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Antlr3.Runtime.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\EntityFramework.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\EntityFramework.SqlServer.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.Web.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.ApplicationInsights.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Newtonsoft.Json.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Owin.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Net.Http.Formatting.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.Helpers.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.Http.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.Http.WebHost.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.Mvc.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.Optimization.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.Razor.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.Razor.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\WebGrease.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Antlr3.Runtime.pdb
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.Web.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.ApplicationInsights.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Newtonsoft.Json.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.Helpers.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.Mvc.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.Optimization.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.Razor.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.Razor.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Net.Http.Formatting.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.Http.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\System.Web.Http.WebHost.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\EntityFramework.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\EntityFramework.SqlServer.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\hui\Desktop\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\common\bookImg\1.jpg
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\common\bookImg\10.jpg
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\ApplicationInsights.config
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\AMQH.dll.config
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\AMQH.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\AMQH.pdb
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Antlr3.Runtime.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\EntityFramework.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\EntityFramework.SqlServer.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.Agent.Intercept.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.Web.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.ApplicationInsights.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Web.Infrastructure.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Newtonsoft.Json.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Owin.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Net.Http.Formatting.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.Helpers.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.Http.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.Http.WebHost.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.Mvc.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.Optimization.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.Razor.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.Deployment.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.Razor.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\WebGrease.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Antlr3.Runtime.pdb
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.Web.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.ApplicationInsights.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Newtonsoft.Json.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.Helpers.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.Mvc.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.Optimization.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.Razor.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.Deployment.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.WebPages.Razor.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Net.Http.Formatting.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.Http.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\System.Web.Http.WebHost.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\EntityFramework.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\EntityFramework.SqlServer.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Mvc.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Optimization.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Http.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\EntityFramework.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\obj\Debug\AMQH.csprojResolveAssemblyReference.cache
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\obj\Debug\AMQH.dll
+D:\C#Project\图书商城\AMQH1227\AMQH1226\AMQH\AMQH\obj\Debug\AMQH.pdb
+F:\codes\My Projects\AMQH\AMQH\bin\common\bookImg\1.jpg
+F:\codes\My Projects\AMQH\AMQH\bin\common\bookImg\10.jpg
+F:\codes\My Projects\AMQH\AMQH\bin\ApplicationInsights.config
+F:\codes\My Projects\AMQH\AMQH\bin\AMQH.dll.config
+F:\codes\My Projects\AMQH\AMQH\bin\AMQH.dll
+F:\codes\My Projects\AMQH\AMQH\bin\AMQH.pdb
+F:\codes\My Projects\AMQH\AMQH\bin\Antlr3.Runtime.dll
+F:\codes\My Projects\AMQH\AMQH\bin\EntityFramework.dll
+F:\codes\My Projects\AMQH\AMQH\bin\EntityFramework.SqlServer.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AI.Agent.Intercept.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AI.Web.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.ApplicationInsights.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Web.Infrastructure.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Newtonsoft.Json.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Owin.dll
+F:\codes\My Projects\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.dll
+F:\codes\My Projects\AMQH\AMQH\bin\System.Net.Http.Formatting.dll
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.Helpers.dll
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.Http.dll
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.Http.WebHost.dll
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.Mvc.dll
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.Optimization.dll
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.Razor.dll
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.WebPages.Deployment.dll
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.WebPages.dll
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.WebPages.Razor.dll
+F:\codes\My Projects\AMQH\AMQH\bin\WebGrease.dll
+F:\codes\My Projects\AMQH\AMQH\bin\Antlr3.Runtime.pdb
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AI.DependencyCollector.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AI.Web.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AI.WindowsServer.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.ApplicationInsights.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.Cookies.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.Facebook.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.Google.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.OAuth.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.Owin.Security.Twitter.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Newtonsoft.Json.xml
+F:\codes\My Projects\AMQH\AMQH\bin\System.Diagnostics.DiagnosticSource.xml
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.Helpers.xml
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.Mvc.xml
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.Optimization.xml
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.Razor.xml
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.WebPages.xml
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.WebPages.Deployment.xml
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.WebPages.Razor.xml
+F:\codes\My Projects\AMQH\AMQH\bin\System.Net.Http.Formatting.xml
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.Http.xml
+F:\codes\My Projects\AMQH\AMQH\bin\System.Web.Http.WebHost.xml
+F:\codes\My Projects\AMQH\AMQH\bin\EntityFramework.xml
+F:\codes\My Projects\AMQH\AMQH\bin\EntityFramework.SqlServer.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Core.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\codes\My Projects\AMQH\AMQH\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Facebook.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Google.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\Microsoft.Owin.Security.Twitter.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\System.Web.Helpers.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\System.Web.Mvc.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\System.Web.Http.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\EntityFramework.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Core.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\codes\My Projects\AMQH\AMQH\bin\zh-Hans\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\codes\My Projects\AMQH\AMQH\obj\Debug\AMQH.csprojResolveAssemblyReference.cache
+F:\codes\My Projects\AMQH\AMQH\obj\Debug\AMQH.csproj.CoreCompileInputs.cache
+F:\codes\My Projects\AMQH\AMQH\obj\Debug\AMQH.dll
+F:\codes\My Projects\AMQH\AMQH\obj\Debug\AMQH.pdb
